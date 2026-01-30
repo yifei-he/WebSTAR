@@ -1,7 +1,4 @@
-# Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering
-Yifei He<sup>\*1</sup>, Pranit Chawla<sup>\*2</sup>, Yaser Souri<sup>2</sup>, Subhojit Som<sup>2</sup>, Xia Song<sup>2</sup>
-
-<sup>1</sup>University of Illinois Urbana-Champaign <sup>2</sup>Microsoft
+# WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering
 
 <p align="center">
   <a href="https://arxiv.org/abs/2512.10962">
@@ -9,10 +6,13 @@ Yifei He<sup>\*1</sup>, Pranit Chawla<sup>\*2</sup>, Yaser Souri<sup>2</sup>, Su
   &nbsp;
   <a href="https://github.com/yifei-he/CUAStepFiltering">
     <img src="https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github" alt="GitHub Project"></a>
+  &nbsp;
+  <a href="https://huggingface.co/datasets/microsoft/WebSTAR">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-FFD21E?style=flat-square&logo=huggingface" alt="HF Dataset"></a>
 </p>
 
 ## News
-- [2025.12] We will release our datasets WebSTAR and the trained models soon after the internal review process.
+- [2026.1] We have released our datasets WebSTAR.
 - [2025.12] Code and paper are released.
 
 ![alt text](main.png "main")
